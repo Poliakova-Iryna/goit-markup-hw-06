@@ -165,6 +165,7 @@ color: #2E2F42;
     min-height: 640px;
     padding-left: 16px;
     position: absolute;
+    z-index: 1;
 }
 
 .menu-close-btn {
