@@ -1336,6 +1336,7 @@ color: #F4F4FD;
     .footer-container {
         display: flex;
         align-items: baseline;
+        margin-left: 0;
     }
 
     .footer-logo-wrap {
