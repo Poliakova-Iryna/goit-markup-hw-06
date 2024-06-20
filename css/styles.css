@@ -291,7 +291,7 @@ color: #404bbf;
 .hero {
     background-image:  linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
     url(../images/hero-mob.jpg);
-    padding: 72px 52px;
+    padding: 72px 0;
     max-width: 1440px;
     background-repeat: no-repeat;
     background-position: center;
@@ -1249,7 +1249,6 @@ color: #F4F4FD;
     }
 
     .hero {
-        max-width: 1158px;
         padding: 188px 0;
         background-image:  linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
         url(../images/people-office.jpg);
